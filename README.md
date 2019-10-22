@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# POTFOLIO
 
-## Available Scripts
+## **Web Front Engineer**
 
-In the project directory, you can run:
+## 정건휘
 
-### `yarn start`
+- **Phone**: 010-6396-2671
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Email** : g01063962671@gmail.com
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- **Github** : geonhwiii@github.com
 
-### `yarn test`
+- **Blog** : https://velog.io/@geonhwi
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Tech** : JavaScript, NodeJS, React, Redux, TypeScript, MySQL, AWS EC2, S3, RDS
 
-### `yarn build`
+- **Potfolio** : [Geonhwi's Potfolio](http://geonhwi-potfolio.s3-website.ap-northeast-2.amazonaws.com/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### 1. Hollyship
 
-### `yarn eject`
+- 감정에 기반한 글을 쓰고 음악을 추천하는 소셜SNS
+- 백엔드 담당 및 프론트엔드 보조
+- React, TypeScript, Kitten-ui, MySQL, express, JWT, passport, AWS EC2, S3, RDS
+- MySQL을 이용한 RDBMS 설계 및 Sequelize로 SQL 구성
+- RESTful API 설계, API 문서 작성 및 프론트 작업을 하면서 API 추가백엔드작업 완료 후 프론트를 작업하면서 벡엔드를 수정하는 방식으로 진행
+- Notion을 활용한 Scrum방식으로 제작
+- https://github.com/geonhwiii/HOLLYSHIP_server
+- 발표자료: https://slides.com/geonhwi/deck-1 - 프론트 입장에서 구성하는 백엔드로서 느낀 자세를 발표
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### 2. Corum
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 부트캠프 졸업생들의 기술 블로그
+- 프론트엔드 담당 및 백엔드 보조
+- React, Material-ui, MySQL, express, JWT, passport, AWS EC2, S3, RDS
+- 백엔드 팀원과 함께 RDBMS 설계
+- React class기반으로 작성 후 hooks로 전환
+- React Router로 페이지 라우팅
+- React-Markdown으로 마크다운 글쓰기 구현
+- Notion을 활용한 Scrum방식으로 제작
+- Github : https://github.com/geonhwiii/CORUM_client
+- 발표자료: https://slides.com/geonhwi/deck - 팀장으로서 프로젝트 진행에서의 잘한 점, 피드백 포인트를 발표
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### 학력
 
-## Learn More
+부경대학교(부산) - 전자공학과 졸업
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+필수 교양수업으로 C, C++, Android 수업 등의 기초를 배우며 프로그래밍에 흥미를 가지고,
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+학과 졸업 후, 좀 더 프로그래밍을 깊게 배우기 위해 부트캠프를 수료하였습니다.
 
-### Code Splitting
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### 자격증
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+정보처리기사 (2018)
