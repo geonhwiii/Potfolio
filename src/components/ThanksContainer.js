@@ -2,16 +2,16 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import './FullPage.css';
-import { Typography } from '@material-ui/core';
+import { Typography, Grid } from '@material-ui/core';
 
 const ThanksContainer = () => {
   const classes = useStyles();
   return (
-    <>
-      <Typography className={classes.thanks} variant='h2' align='center'>
+    <Grid>
+      <Typography className={classes.thanks} variant='h4' align='center'>
         <b>🙇🏻‍♂️ 감사합니다 🙇🏻‍♂️</b>
       </Typography>
-    </>
+    </Grid>
   );
 };
 

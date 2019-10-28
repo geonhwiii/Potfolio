@@ -18,12 +18,12 @@ const ScrumContainer = () => {
         </b>
       </Typography>
       <Grid container xs={12}>
-        <Grid className={classes.imgContainer} item sm={5}>
+        <Grid className={classes.imgContainer} item md={5}>
           <Typography className={classes.imgTitle} component='h5' variant='h5'>
             Sprint 🚦
           </Typography>
           <img
-            style={{ width: '100%', height: '20rem' }}
+            style={{ width: '90%', height: '20rem' }}
             src='https://images.velog.io/post-images/geonhwi/d0bac950-f4de-11e9-9a0b-2f3b1723e3f3/image.png'
             alt='scrum'
           />
@@ -36,12 +36,12 @@ const ScrumContainer = () => {
             프로젝트의 구성요소를 각 단계별로 나누어 우선 순위를 정합니다.
           </Typography>
         </Grid>
-        <Grid className={classes.imgContainer} item sm={5}>
+        <Grid className={classes.imgContainer} item md={5}>
           <Typography className={classes.imgTitle} component='h5' variant='h5'>
             TaskCard 📚
           </Typography>
           <img
-            style={{ width: '100%', height: '20rem' }}
+            style={{ width: '90%', height: '20rem' }}
             src='https://images.velog.io/post-images/geonhwi/d7df3f40-f4de-11e9-9a0b-2f3b1723e3f3/image.png'
             alt='scrum'
           />
@@ -65,7 +65,9 @@ const useStyles = makeStyles(theme => ({
     marginBottom: theme.spacing(4)
   },
   imgContainer: {
-    margin: theme.spacing(6.5)
+    margin: theme.spacing(6.5),
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   imgTitle: {
     color: '#fff',
